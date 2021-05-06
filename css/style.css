@@ -1,0 +1,202 @@
+*{
+   box-sizing: border-box; 
+}
+
+#i {
+    position: relative;
+}
+
+#a{
+    position: absolute;
+    top: 30px;
+    left: 212px;
+}
+#b{
+    top: -11px;
+    position: absolute;
+    left: 266px;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+   
+}
+#c{
+    font-size: 11px;
+    position: absolute;
+    bottom: -88px;
+    left: 268px;
+    font-family: serif;
+    opacity: 0.8;
+}
+
+#ii{
+position: relative;
+}
+
+#d{
+    position: absolute;
+    left: 878px;
+    top: 44px;
+}
+
+#e{
+    position: absolute;
+    left: 1060px;
+    top: 44px 
+}
+
+#hash{
+    position: absolute;
+    top: -9px;
+    left: 207px;
+    opacity: 0.6;
+}
+#iii{
+    position: relative;
+    top: 100px;
+}
+
+#ia{
+    position: absolute;
+    left: 213px;
+    top: 47px;
+    font-size: 40px;
+    font-family: fantasy;
+}
+
+#ib{
+    position: absolute;
+    left: 215px;
+    top: 109px;
+    opacity: 0.5;
+    font-family: monospace;
+    font-size: 12px;
+}
+#ic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 175px;
+}
+#id{
+    position: absolute;
+    top: 112px;
+    left: 1063px;
+}
+
+#ie{
+    position: absolute;
+    left: 219px;
+    top: 795px;
+    width: 910px;
+    font-family: auto;
+    font-size: 19px;
+    opacity: 0.7;
+    line-height: 1.4;
+}
+
+#if{
+    position: absolute;
+    top: 1155px;
+    left: 222px;
+}
+
+#footer{
+    position: relative;
+    top: 1000px;
+}
+
+#hash2{
+    position: absolute;
+    left: 214px;
+    top: -14px;
+}
+
+#f1{
+    position: absolute;
+    top: 214px;
+    left: 637px;
+}
+
+#f2{
+    position: absolute;
+    top: 38px;
+    left: 210px;
+}
+
+#f3{
+    position: absolute;
+    top: 19px;
+    left: 297px;
+    font-size: 21px;
+}
+
+#f4{
+    position: absolute;
+    left: 294px;
+    top: 54px;
+    font-size: 20px;
+    opacity: 0.6;
+}
+
+#f44{
+    position: absolute;
+    top: 83px;
+    left: 294px;
+    font-size: 20px;
+    opacity: 0.6;
+}
+
+#f5{
+    position: absolute;
+    top: 40px;
+    left: 949px;
+    background-color: #e28484;
+    padding: 16px;
+    color: white;
+}
+
+#f6{
+    position: absolute;
+    top: 266px;
+    left: 544px;
+    font-size: 18px;
+    opacity: 0.7;
+
+}
+#f7{
+    position: absolute;
+    top: 290px;
+    left: 565px;
+opacity: 0.7;
+}
+
+#hr{
+    position: absolute;
+    top: 204px;
+    left: 194px;
+    opacity: 0.2;
+}
+
+#hr2{
+    position: absolute;
+    top: 204px;
+    left: 671px;
+    opacity: 0.2;
+}
+
+#mk1{
+    left: 287px;
+    position: absolute;
+    bottom: -775px;
+    font-size: 21px;
+    line-height: 1.6;
+}
+
+#mk2{
+    left: 678px;
+    position: absolute;
+    bottom: -774px;
+    font-size: 21px;
+    line-height: 1.6;
+}
